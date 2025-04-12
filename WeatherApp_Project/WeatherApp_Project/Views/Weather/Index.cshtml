@@ -1,0 +1,27 @@
+﻿@model WeatherApp_Project.Models.Weather
+
+@{
+    ViewData["Title"] = "Weather";
+}
+
+<h1>Weather Controller</h1>
+
+<form method="post">
+    <input type="text" name="city" placeholder="City name" required />
+    <button type="submit">Check</button>
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <p style="color:red;">@ViewBag.Error</p>
+}
+
+@if (Model != null && Model.City != null)
+{
+    <div style="margin-top: 20px;">
+        <h2>@Model.City</h2>
+        <p>Sıcaklık: @Model.Temperature °C</p>
+        <p>Açıklama: @Model.Description</p>
+        <img src="@Model.Icon" alt="Weather Icon" />
+    </div>
+}

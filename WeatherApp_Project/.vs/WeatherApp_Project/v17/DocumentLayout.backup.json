@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A\\source\\repos\\WeatherApp_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D77B4D9A-F624-4C4C-9506-71E6FFF8CB13}|WeatherApp_Project\\WeatherApp_Project.csproj|c:\\users\\a\\source\\repos\\weatherapp_project\\weatherapp_project\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D77B4D9A-F624-4C4C-9506-71E6FFF8CB13}|WeatherApp_Project\\WeatherApp_Project.csproj|solutionrelative:weatherapp_project\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77B4D9A-F624-4C4C-9506-71E6FFF8CB13}|WeatherApp_Project\\WeatherApp_Project.csproj|c:\\users\\a\\source\\repos\\weatherapp_project\\weatherapp_project\\models\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77B4D9A-F624-4C4C-9506-71E6FFF8CB13}|WeatherApp_Project\\WeatherApp_Project.csproj|solutionrelative:weatherapp_project\\models\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77B4D9A-F624-4C4C-9506-71E6FFF8CB13}|WeatherApp_Project\\WeatherApp_Project.csproj|c:\\users\\a\\source\\repos\\weatherapp_project\\weatherapp_project\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77B4D9A-F624-4C4C-9506-71E6FFF8CB13}|WeatherApp_Project\\WeatherApp_Project.csproj|solutionrelative:weatherapp_project\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77B4D9A-F624-4C4C-9506-71E6FFF8CB13}|WeatherApp_Project\\WeatherApp_Project.csproj|c:\\users\\a\\source\\repos\\weatherapp_project\\weatherapp_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77B4D9A-F624-4C4C-9506-71E6FFF8CB13}|WeatherApp_Project\\WeatherApp_Project.csproj|solutionrelative:weatherapp_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\WeatherApp_Project\\WeatherApp_Project\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherApp_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\WeatherApp_Project\\WeatherApp_Project\\Program.cs",
+              "RelativeToolTip": "WeatherApp_Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:39:38.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\WeatherApp_Project\\WeatherApp_Project\\Views\\Weather\\Index.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp_Project\\Views\\Weather\\Index.cshtml",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\WeatherApp_Project\\WeatherApp_Project\\Views\\Weather\\Index.cshtml",
+              "RelativeToolTip": "WeatherApp_Project\\Views\\Weather\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T17:39:05.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\WeatherApp_Project\\WeatherApp_Project\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "WeatherApp_Project\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\WeatherApp_Project\\WeatherApp_Project\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "WeatherApp_Project\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:31:05.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\WeatherApp_Project\\WeatherApp_Project\\Models\\Weather.cs",
+              "RelativeDocumentMoniker": "WeatherApp_Project\\Models\\Weather.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\WeatherApp_Project\\WeatherApp_Project\\Models\\Weather.cs",
+              "RelativeToolTip": "WeatherApp_Project\\Models\\Weather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:29:49.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
